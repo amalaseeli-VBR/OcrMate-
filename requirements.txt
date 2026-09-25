@@ -1,0 +1,36 @@
+streamlit
+streamlit-drawable-canvas==0.9.3
+pandas
+anthropic
+numpy==1.26.4
+reportlab
+pillow
+pypdf
+python-dateutil
+pyodbc
+cryptography
+pyyaml
+python-dotenv
+pdfplumber
+pdfminer.six
+scipy
+google-cloud-documentai
+google-genai
+google-generativeai
+# OCR / PDF
+pymupdf==1.20.2
+opencv-python==4.6.0.66
+pytesseract
+easyocr
+python-doctr
+opencv-python
+
+
+#pip install --upgrade pip setuptools wheel
+#poppler install
+
+#https://doctr-static.mindee.com/models?id=v0.8.1/fast_base-688a8b34.pt&src=0
+#https://doctr-static.mindee.com/models?id=v0.12.0/crnn_vgg16_bn-0417f351.pt&src=0
+#python -m pip install --upgrade pip setuptools wheel
+
+#https://sourceforge.net/projects/tesseract-ocr.mirror/files/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe/download?
